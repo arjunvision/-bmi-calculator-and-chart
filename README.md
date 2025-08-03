@@ -1,4 +1,4 @@
-# BMI Analysis and Visualization 🧮
+# BMI Calculator and Chart 🧮
 
 ### This project calculates Body Mass Index (BMI) for a sample dataset, categorizes it, and visualizes the results using Seaborn and Matplotlib.
 
